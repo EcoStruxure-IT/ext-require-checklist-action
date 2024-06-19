@@ -1,3 +1,5 @@
+Schnedier Fork of public github action repo
+
 # Require Checklist
 
 A GitHub Action that fails a pull request if there are any incomplete checklists in the issue body and/or comments. The action is triggered when a pull request is opened or its first comment (the main pull request message) is edited.
